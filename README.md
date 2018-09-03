@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/application-development/typescript-30-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789345575"><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/cover_11153.png" alt="TypeScript 3.0 Quick Start Guide" height="256px" align="right"></a>
 
-This is the code repository for [TypeScript 3.0 Quick Start Guide](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [TypeScript 3.0 Quick Start Guide](https://www.packtpub.com/application-development/typescript-30-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789345575), published by Packt.
 
 **The easiest way to learn TypeScript**
 
