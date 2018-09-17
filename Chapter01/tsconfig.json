@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+  "rootDir": "src",
+  "outDir": "build",
+  "target": "es6",
+  "sourceMap": true,
+  "strictFunctionTypes": true,
+  "strictPropertyInitialization": true,
+  "strictNullChecks": true
+  }
+ }
