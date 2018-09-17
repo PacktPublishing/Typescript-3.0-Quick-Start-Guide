@@ -62,7 +62,7 @@ With the following software and hardware list you can run all code files present
 
 ## Get to Know the Author
 **Patrick Desjardins**
-Patrick Desjardins has been working as a senior software developer for Netflix since 2017 and also is a senior software developer at Microsoft, working on MSDN, VSTS, and Teams. He was Microsoft's Most Valuable Professional (MVP) in ASP.NET for the years of 2013 and 2014. His area of interest is web development, which he has embraced since the early 2000s.
+has been working as a senior software developer for Netflix since 2017 and also is a senior software developer at Microsoft, working on MSDN, VSTS, and Teams. He was Microsoft's Most Valuable Professional (MVP) in ASP.NET for the years of 2013 and 2014. His area of interest is web development, which he has embraced since the early 2000s.
 Patrick is a huge fan of Microsoft technologies, such as .NET, which he has developed with professionally since 2004. By contrast, in 2002 he started to develop many projects in PHP, which provides him multiple perspectives on how the web can be developed.
 Patrick owns many open source projects and has written several books recently.
 
