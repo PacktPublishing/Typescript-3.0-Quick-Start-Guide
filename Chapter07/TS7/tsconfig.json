@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "rootDir": "src",
+        "outDir": "build",
+        "sourceMap": true,
+        "declaration": true,
+        "declarationDir": "build",
+        "target": "es6",
+        "lib": [
+            "dom"
+        ]
+    }
+}

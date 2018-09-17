@@ -1,0 +1,1 @@
+{"version":3,"file":"symbol.js","sourceRoot":"","sources":["../../src/Primitive/symbol.ts"],"names":[],"mappings":";AAAA,IAAI,IAAI,GAAG,MAAM,CAAC,MAAM,CAAC,CAAC;AAC1B,IAAI,IAAI,GAAG,MAAM,CAAC,MAAM,CAAC,CAAC;AAE1B,IAAI,IAAI,KAAK,IAAI,EAAE;IAClB,OAAO,CAAC,GAAG,CAAC,MAAM,CAAC,CAAC,CAAC,cAAc;CACnC"}

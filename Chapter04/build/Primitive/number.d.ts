@@ -1,0 +1,17 @@
+declare function noNeedConstLetvar(parameter1: number): void;
+declare let boolean1: number;
+declare let boolean2: number;
+declare let boolean3: number;
+declare let boolean4: number;
+declare let boolean5: number;
+declare let boolean6: number;
+declare let string1: number;
+declare let string2: number;
+declare let string3: number;
+declare let string4: number;
+declare let string5: number;
+declare let string6: number;
+declare let numeric_separator: number;
+declare let number1: number;
+declare let number2: number;
+declare let number3: number;

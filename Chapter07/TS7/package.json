@@ -1,0 +1,20 @@
+{
+  "name": "your-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "scripts": {
+    "prestart": "npm run remove:dist && tsc && npm run copy:html",
+    "start": "npm run server:run",
+    "remove:dist": "rm -rf ./build",
+    "copy:html": "cp ./src/index.html ./build",
+    "server:run": "lite-server --baseDir='build'"
+  },
+  "author": "Alejandro Lora Gomez",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "2.4.0",
+    "typescript": "3.0.1"
+  }
+}
